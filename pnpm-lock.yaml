@@ -670,7 +670,7 @@ importers:
     dependencies:
       '@cspell/cspell-pipe':
         specifier: ^8.19.0
-        version: 8.19.0
+        version: 8.19.1
       as-table:
         specifier: ^1.0.55
         version: 1.0.55
@@ -778,6 +778,10 @@ packages:
 
   '@cspell/cspell-pipe@8.19.0':
     resolution: {integrity: sha512-OtgF/oQ3n6T/qM+fIWLfhOhW0fLSPnpZGOZi7uKSCJZxnHKVk0h+7zNPlLkcDHrhxZP4Df76S9z7jU5iEC2oYA==}
+    engines: {node: '>=18'}
+
+  '@cspell/cspell-pipe@8.19.1':
+    resolution: {integrity: sha512-vm2fK5kCORx1fjBpeAWLntYWoFpwtBqj3NjHeBX/RDNCRsLCS74YzpI6rG0SroxnOhn4eP7ZVkDDebQbI0WA/A==}
     engines: {node: '>=18'}
 
   '@cspell/cspell-resolver@8.19.0':
@@ -4796,6 +4800,8 @@ snapshots:
 
   '@cspell/cspell-pipe@8.19.0': {}
 
+  '@cspell/cspell-pipe@8.19.1': {}
+
   '@cspell/cspell-resolver@8.19.0':
     dependencies:
       global-directory: 4.0.1
@@ -7102,7 +7108,7 @@ snapshots:
 
   hunspell-reader@8.19.0:
     dependencies:
-      '@cspell/cspell-pipe': 8.19.0
+      '@cspell/cspell-pipe': 8.19.1
       '@cspell/cspell-types': 8.19.0
       commander: 13.1.0
       gensequence: 7.0.0
