@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.2.3](https://github.com/teddybradford/cspell-dicts/compare/@cspell/dict-bash@4.2.2...@cspell/dict-bash@4.2.3) (2026-01-06)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/teddybradford/cspell-dicts/issues/4640)) ([ce83729](https://github.com/teddybradford/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @cspell/dict-shell bumped to 1.1.3
+
 ## [4.2.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-bash@4.2.1...@cspell/dict-bash@4.2.2) (2025-10-26)
 
 
